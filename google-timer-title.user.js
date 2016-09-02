@@ -2,7 +2,7 @@
 // @name           Google Timer Title Update
 // @namespace      org.alorel.googletimer
 // @author         Alorel <a.molcanovas@gmail.com>
-// @description    Automatically does harvestron sessions
+// @description    Automatically updates the title when using Google's timer
 // @include        https://*google.*/search?*
 // @version        1.0
 // @icon           https://cdn.rawgit.com/AlorelUserscripts/google-timer-title-switcher/master/icon.png
